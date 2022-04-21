@@ -3,6 +3,8 @@
 
 Used Technology
 
-#using #Html #Css #Javascript
+HTML
+CSS
+JAVASCRIPT
 
  
